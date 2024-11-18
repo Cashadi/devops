@@ -27,5 +27,16 @@ SSH Key-Pair mempunyai 2 yaitu :
 
 ![copy some files](images/copy-some-files.png)
 
+# membuat ssh local (private_key)
+
+![membuat ssh local](images/private-in-local.png)
+
+# show ssh local (private_key)
+
+![membuat ssh local](images/show-ssh-private-local.png)
+
+
+
+
 
 
