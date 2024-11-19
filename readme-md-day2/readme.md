@@ -2,7 +2,7 @@
 
 ![login](/images/login.png);
 
-untuk bisa login ke server bisa menggunakan command ssh namaUser@api nya, contohnya saya menggunakan **ssh user01@192.168.20.79**, nah api itu dapet dari mana sih?, api tersebut didapatkan dari ubuntu kalian ketika running, oke ketika sukses login di paling bawah ada teks yang menginfokan bahwa kamu login di waktu tersebut
+untuk bisa login ke server bisa menggunakan command ssh namaUser@api nya, contohnya saya menggunakan **ssh user01@192.168.20.79**, nah Ip Addres itu dapet dari mana sih?, Ip Address tersebut didapatkan dari ubuntu kalian ketika running, ketika sukses login di paling bawah ada teks yang menginfokan bahwa kamu login di waktu tersebut
 
 
 ## command logout
