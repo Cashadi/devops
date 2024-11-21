@@ -61,3 +61,10 @@ yang saya buat seperti gambar diatas, **pgdata** digunakan untuk menyimpan data 
 ![volume](/readme-md-day3/image/volume.png);
 
 untuk melihat volume pakai command **docker volume list** dan akan muncul list volume nya
+
+
+### volume
+
+![volume](/readme-md-day3/image/volume1.png);
+
+volumes pgdata untuk menyimpan data dari PostgreSQL, semua data akan disimpan di volume pgdata nya
